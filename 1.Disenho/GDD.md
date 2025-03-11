@@ -1,6 +1,6 @@
 # GDD
 
-## PRESENTACIÓN/RESUMEN
+## PRESENTACIÓN/RESUMEN
 
 Clattamount Shuffle nació a raíz de mi interés personal en los juegos de cartas, en especial los del género "Deckbuilder".
 
